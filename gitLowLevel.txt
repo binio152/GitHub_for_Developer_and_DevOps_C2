@@ -6,3 +6,6 @@ sha: eddd70127b4d6b71ca42f16ac51b439ca68c1043
 // create git object for blob based on file
 git hash-object .\gitLowLevel.txt -w
 9e454e12bb45d0a2a2ee85dda372c52823a69bf3 
+
+// Hash Object = Object Type + Object Length + Delimiter(\0) + Content 
+
