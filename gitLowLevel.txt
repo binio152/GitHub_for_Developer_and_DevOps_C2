@@ -1,11 +1,18 @@
+// Hash Object = Object Type + Object Length + Delimiter(\0) + Content 
+
 // create git object for blob
 echo "Hello Git" | git hash-object --stdin -w
-sha: eddd70127b4d6b71ca42f16ac51b439ca68c1043
-
+eddd70127b4d6b71ca42f16ac51b439ca68c1043
 
 // create git object for blob based on file
 git hash-object .\gitLowLevel.txt -w
 9e454e12bb45d0a2a2ee85dda372c52823a69bf3 
 
-// Hash Object = Object Type + Object Length + Delimiter(\0) + Content 
+// git objects permission
+- 040000 directory
+- 100644 regular non-executable file
+- 100755 regular executable file
+- 160000 gitlink
 
+// list all files in stagging area
+git ls-files 
