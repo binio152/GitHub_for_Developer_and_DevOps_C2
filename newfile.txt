@@ -1,6 +1,8 @@
 Git Pull with Fast-Forward Merge
 some text in local repo
-ahjhj
+tung tung tung shahur
 
 add some text by another account
 back to main account and add some text
+
+add some text from remote origin
