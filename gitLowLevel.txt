@@ -1,0 +1,3 @@
+// create git object for blob
+echo "Hello Git" | git hash-object --stdin -w
+sha: eddd70127b4d6b71ca42f16ac51b439ca68c1043
