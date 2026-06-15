@@ -1,9 +1,12 @@
-Git Pull with Fast-Forward Merge
+Git Pull Request from another account 2
 some text in local repo
-tung tung tung shahur
+this line was replaced from local feature2 branch
 
-add some text by another account
+modify some text by another account
 back to main account and add some text
 
-add some text from remote origin
-add some text from local master
+this line was added from local feature2 branch
+another modify from local feature2 branch  with another account 2
+modify feature2 from local to make it have diff sha1 when using git show-ref
+add some text from remote master
+
