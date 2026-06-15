@@ -1,6 +1,8 @@
 Git Pull with Fast-Forward Merge
 some text in local repo
-ahjhj
+this line was replaced from local feature2 branch
 
 add some text by another account
 back to main account and add some text
+
+this line was added from local feature2 branch
