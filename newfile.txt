@@ -1,1 +1,1 @@
-Git Pull with Fast-Forward Merge
+Git Pull with conflict
