@@ -6,4 +6,5 @@ add some text by another account
 back to main account and add some text
 
 this line was added from local feature2 branch
-another modify from local feature2 branch 
+another modify from local feature2 branch
+modify feature2 from local to make it have diff sha1 when using git show-ref
