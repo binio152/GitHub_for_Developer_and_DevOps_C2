@@ -1,3 +1,5 @@
 Git Pull with Fast-Forward Merge
 some text in local repo
 ahjhj
+
+add some text by another account
