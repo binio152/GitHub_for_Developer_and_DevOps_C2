@@ -6,3 +6,4 @@ add some text by another account
 back to main account and add some text
 
 this line was added from local feature2 branch
+another modify from local feature2 branch 
