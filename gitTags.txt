@@ -9,5 +9,11 @@ committer Tran Xuan Binh <binidafs2k1@gmail.com> 1781628823 +0700
 git lightweight tag
 
 // Annotated Tag: stored in ./git/ref/tags and also in ./git/objects
-
 git tag -a v1.1.0 -m "annotated tag"
+
+object 9cb20f4ea79e76c7f61dd712fbbac5c2a5e88804
+type commit
+tag v1.1.0
+tagger Tran Xuan Binh <binidafs2k1@gmail.com> 1781629281 +0700
+
+annotated tag
