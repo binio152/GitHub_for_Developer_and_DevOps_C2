@@ -1,0 +1,2 @@
+// Lightweight Tag: stored in .git/ref/tags
+git tag v1.0.0
