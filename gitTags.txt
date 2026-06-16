@@ -1,2 +1,13 @@
 // Lightweight Tag: stored in .git/ref/tags
 git tag v1.0.0
+
+tree 5f03ae53f7e0a5101c57db5600c4a41378f4bb5a
+parent 91ab878f187aaab1a2175852054fdf279180c72b
+author Tran Xuan Binh <binidafs2k1@gmail.com> 1781628823 +0700
+committer Tran Xuan Binh <binidafs2k1@gmail.com> 1781628823 +0700
+
+git lightweight tag
+
+// Annotated Tag: stored in ./git/ref/tags and also in ./git/objects
+
+git tag -a v1.1.0 -m "annotated tag"
