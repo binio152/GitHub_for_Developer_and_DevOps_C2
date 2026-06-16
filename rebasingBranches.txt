@@ -1,2 +1,4 @@
 some text from rebasing branch
 another text from rebasing branch
+
+add text for conflict in master branch
