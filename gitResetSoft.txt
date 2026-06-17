@@ -1,1 +1,7 @@
 1
+2
+3
+4 // add
+5 // wd
+
+git reset --soft save all change in stagging and wd remove commit only
