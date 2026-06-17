@@ -1,0 +1,2 @@
+git reflog using to show the history of where HEAD 
+and other refs hav pointed over time  
