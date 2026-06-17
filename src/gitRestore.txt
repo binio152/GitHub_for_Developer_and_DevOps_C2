@@ -1,0 +1,1 @@
+git restore file  // undo change not committed yet
